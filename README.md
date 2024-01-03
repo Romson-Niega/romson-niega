@@ -3,8 +3,8 @@
 I am a dedicated learner of all things IT and cyber security. Plus a genuinely happy person.
 
 - I’m currently working on Security for a Mobile Scanning App
-- I'm currently employeed with https://isd.lacounty.gov
-- https://www.linkedin.com/in/romson-niega/
+- I'm currently employeed @ https://isd.lacounty.gov
+- How to reach me: https://www.linkedin.com/in/romson-niega/
   
 - Hard Skills: Information Security, Network Security, Web Application Security, Python, Bash
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multitasking, Ethics
