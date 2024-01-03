@@ -1,10 +1,10 @@
 ### Hi there, I am Romson 👋
 
-I am a dedicated learner of all things IT and cyber security. And a genuinely happy person.
+I am a dedicated learner of all things IT and cyber security. Plus a genuinely happy person.
 
 - I’m currently working on Security for a Mobile Scanning App
-- I currently work for the County of Los Angeles, Internal Services Department
-- How to reach me https://www.linkedin.com/in/romson-niega/
+- I'm currently working for the County of Los Angeles @ Internal Services Department
+- https://www.linkedin.com/in/romson-niega/
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
