@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Romson 👋
 
+I am a dedicated learner of all things IT and cyber security. And a genuinely happy person.
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
