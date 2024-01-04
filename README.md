@@ -1,4 +1,4 @@
-### Hi there, I am Romson 👋
+### I'm Romson. Welcome to my GitHub.
 
 I am a dedicated learner of all things IT and cyber security. Plus a genuinely happy person.
 
