@@ -1,8 +1,8 @@
 ### I'm Romson, and welcome to my GitHub!
 
-I am a dedicated learner of all things IT and cyber security. Plus a genuinely happy person.
+I am a dedicated learner of all things Networking and cyber security. Plus a genuinely happy person.
 
-- I’m currently working on security documentation and configuration for a mobile scanning application 
+- I’m currently working on network infrastructure, server administration, network security, and automation. 
 - I'm currently employeed: https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
   
