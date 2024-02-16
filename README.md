@@ -1,12 +1,12 @@
 ### I'm Romson, and welcome to my GitHub!
 
-I am a dedicated learner of all things Networking and cyber security. Plus a genuinely happy person.
+I am a dedicated learner of all things networking and cyber security. Plus a genuinely happy person.
 
-- I’m currently working on network infrastructure, server administration, network security, and automation. 
+- I’m currently working with the networking team on network infrastructure, server administration, network security, and automation. 
 - I'm currently employeed: https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
   
-- Hard Skills: Information Security, Network Security, Web Application Security, Python, Bash
+- Hard Skills: Information Security, Network Security, Web Application Security, Cisco iOS, Firewall, VLAN, Python, Bash
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multitasking, Ethics
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
