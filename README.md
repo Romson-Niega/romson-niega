@@ -6,7 +6,7 @@ I am a dedicated learner of all things networking and cyber security.
 - I'm currently employeed: https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
   
-- Hard Skills: Information Security, Network Security, Web Application Security, Cisco iOS, Firewall, VLAN, Python, Bash
+- Hard Skills: Network Security, Web Application Security, Cisco iOS, Firewall, VLAN, Python, Bash
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multitasking, Ethics
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
