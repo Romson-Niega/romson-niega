@@ -2,7 +2,7 @@
 
 I am a dedicated learner of all things networking and cyber security. 
 
-- I’m currently working with the networking team on network infrastructure, network security, and automation. 
+- I’m currently working with the data center network engineering team on network infrastructure, network security, and automation. 
 - I'm currently employeed: https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
   
