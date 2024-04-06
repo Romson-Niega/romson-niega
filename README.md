@@ -2,11 +2,16 @@
 
 I am a dedicated learner of all things networking and cyber security. 
 
-- I’m currently working with the secure data center network engineering team on network infrastructure, network security, and automation. 
-- I'm currently employed: https://isd.lacounty.gov
+- I’m currently working with the secure data center network engineering team on network infrastructure, network security, and firewall. 
+- I'm currently employed at https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
+
+- Configured the network interfaces on Cisco’s firewall, defining IP addresses, subnet masks, and default gateway settings. 
+- Create security policies to allow or deny traffic between different security zones, specifying rules based on applications, users, and services. 
+- Validate NAT policies to ensure IP address translations are working as expected and not causing any connectivity issues. 
+- CCNA in progress. Expected June 2024.
   
-- Hard Skills: Network Engineering, Network Security, Web Application Security, Cisco iOS, Cisco Firewall ASA & FMC, Cisco ACI, Palo Alto NGFW, VLAN, Bash, Python
+- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Cisco ACI, NGFW Palo Alto, VLAN, OSPF, Bash, Python
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
