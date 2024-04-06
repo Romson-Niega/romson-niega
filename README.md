@@ -3,7 +3,7 @@
 I am a dedicated learner of all things networking and cyber security. 
 
 - I’m currently working with the secure data center network engineering team on network infrastructure, network security, and firewall. 
-- I'm currently employed at https://isd.lacounty.gov
+- I'm currently employed at County of Los Angeles, https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
 
 - Configured the network interfaces on Cisco’s firewall, defining IP addresses, subnet masks, and default gateway settings. 
