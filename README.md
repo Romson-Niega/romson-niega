@@ -8,8 +8,10 @@ I am a dedicated learner of all things networks and cyber security.
 
 - Configured the network interfaces on Cisco’s firewall, defining IP addresses, subnet masks, and default gateway settings. 
 - Create security policies to allow or deny traffic between different security zones, specifying rules based on applications, users, and services. 
-- Validate NAT policies to ensure IP address translations are working as expected and not causing any connectivity issues. 
-- CCNA in progress. Expected June 2024.
+ - Validate NAT policies to ensure IP address translations are working as expected and not causing any connectivity issues. 
+- Document information security processes and procedures.
+- Troubleshoot, research, diagnose and resolve network problems; escalate network problems as necessary.
+ - Monitor network performance; report problems according to established procedures.
   
 - Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Cisco ACI, NGFW Palo Alto, VLAN, OSPF, Bash, Python
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics
