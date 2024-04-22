@@ -6,7 +6,7 @@ I am a dedicated learner of all things networks and cyber security.
 - I'm currently employed at County of Los Angeles, https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
 
-- Configured the network interfaces on Cisco’s firewall, defining IP addresses, subnet masks, and default gateway settings. 
+- Configure the network interfaces on Cisco’s firewall, defining IP addresses, subnet masks, and default gateway settings. 
 - Create security policies to allow or deny traffic between different security zones, specifying rules based on applications, users, and services. 
  - Validate NAT policies to ensure IP address translations are working as expected and not causing any connectivity issues. 
 - Document information security processes and procedures.
