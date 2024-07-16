@@ -2,7 +2,7 @@
 
 I am a dedicated learner of all things networks and cyber security. 
 
-- I’m currently working with the secure data center engineering team on network operations, network security, and firewall. 
+- I’m currently working with the secure data center engineering team on network operations, network security, and firewall operations. 
 - I'm currently employed at County of Los Angeles, https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
 
@@ -13,7 +13,7 @@ I am a dedicated learner of all things networks and cyber security.
 - Troubleshoot, research, diagnose and resolve network problems; escalate network problems as necessary.
  - Monitor network performance; report problems according to established procedures.
   
-- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Cisco ACI, NGFW Palo Alto, VLAN, OSPF, Bash, Python
+- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Cisco ACI, NGFW Palo Alto, Strata Cloud Manager, VLAN, OSPF, Bash, Python
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
