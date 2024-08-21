@@ -2,11 +2,9 @@
 
 I am a dedicated learner of all things networks and cyber security. 
 
-- I’m currently working with the secure data center engineering team on network operations, network security, and firewall operations. 
+- I’m currently working with the secure data center team on firewall engineering and operations. 
 - I'm currently employed at County of Los Angeles, https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
-
-Working with the secure data center team on firewall engineering and operations.
 
 •	Managed and secured LA County’s perimeter firewalls, safeguarding sensitive data across DMZ and internal networks. Configured firewall rules, routes, and S2S VPN connections, maintaining optimal network security and performance. 
 •	Developed and implemented security policies using Palo Alto’s Panorama, Cisco’s FMC, and ASA to regulate traffic between security zones, enhancing network segmentation by 100% and ensuring robust protection. 
