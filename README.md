@@ -15,7 +15,7 @@ I am a dedicated learner of all things networks and cyber security.
 •	Monitored firewall performance, traffic volume, and alerts using Elasticsearch, PRTG, and Palo Alto’s Strata, proactively mitigating potential security threats. 
 •	Generated and delivered comprehensive reports on firewall activities, including attack statistics, malware interceptions, and system health. Successfully eliminated the need for third-party vendors, reducing departmental costs by 50% annually. 
   
-- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Palo Alto Strata & Panorama, VLAN, OSPF, Bash, Python
+- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Palo Alto Strata & Panorama, VLAN, BGP, OSPF, Bash, Python
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
