@@ -8,7 +8,7 @@ I am a dedicated learner of all things networks and cyber security.
 
 •	Managed and secured LA County’s perimeter firewalls, safeguarding sensitive data across DMZ and internal networks. Configured firewall rules, routes, and S2S VPN connections, maintaining optimal network security and performance. 
 
-•	Developed and implemented security policies using Palo Alto’s Panorama, Cisco’s FMC, and ASA to regulate traffic between security zones, enhancing network segmentation by 100% and ensuring robust protection. 
+•	Developed and implemented security policies using Palo Alto’s Panorama, Cisco’s FTD, and ASA to regulate traffic between security zones, enhancing network segmentation by 100% and ensuring robust protection. 
 
 •	Partnered with the Networking Team to implement static routes, enabling customers to securely access data within ISD data centers. Improved customer connectivity by 20% for accessing programs and applications hosted in AWS, GPC, and OCM. 
 
@@ -23,7 +23,7 @@ I am a dedicated learner of all things networks and cyber security.
 •	Generated and delivered comprehensive reports on firewall activities, including attack statistics, malware interceptions, and system health. Successfully eliminated the need for third-party vendors, reducing departmental costs by 50% annually. 
 
   
-- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FMC, Palo Alto Strata & Panorama, VLAN, BGP, OSPF, Bash, Python
+- Hard Skills: Network Engineering, Network Security, Cisco Firewall ASA & FTD, Palo Alto Strata & Panorama, VLAN, BGP, OSPF, Bash, Python
   
 - Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics
 <!--
