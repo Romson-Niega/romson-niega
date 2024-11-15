@@ -3,7 +3,7 @@
 I am a dedicated learner of all things networks and cyber security. 
 
 - I’m currently working with Secure Infrastructure Section on firewall engineering and operations.
-- I'm currently employed at County of Los Angeles, https://isd.lacounty.gov
+- I'm currently employed at Internal Services Department - County of Los Angeles, https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
 
 • Led Level 1 and 2 firewall troubleshooting efforts, conducting trace-route and packet capture analysis to diagnose vendor network issues, successfully identifying a floating IP caused by the vendor’s load balancer. 
