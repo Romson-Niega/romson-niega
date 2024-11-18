@@ -1,6 +1,6 @@
 ### I'm Romson, and welcome to my GitHub!
 
-I am a dedicated learner of all things networks and cyber security. 
+I am a dedicated learner of all things networking and cyber security. 
 
 - I’m currently working with Secure Infrastructure Section on firewall engineering and operations.
 - I'm currently employed at Internal Services Department - County of Los Angeles, https://isd.lacounty.gov
