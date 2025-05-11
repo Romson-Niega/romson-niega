@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Contribution Snake](https://raw.githubusercontent.com/Romson-Niega/snk/output/github-contribution-grid-snake.svg)
