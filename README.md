@@ -6,6 +6,8 @@ I am a dedicated learner of all things networking and cyber security.
 - I'm currently employed at Internal Services Department - County of Los Angeles, https://isd.lacounty.gov
 - How to reach me: https://www.linkedin.com/in/romson-niega/
 
+
+
 - [ ] Led Level 1 and 2 firewall troubleshooting efforts, conducting trace-route and packet capture analysis to diagnose vendor network issues. 
 
 - [ ] Managed and secured LA County’s perimeter firewalls, safeguarding sensitive data across DMZ and internal networks. Configured firewall rules, routes, and S2S VPN connections, maintaining optimal network security and performance. 
@@ -24,6 +26,7 @@ I am a dedicated learner of all things networking and cyber security.
 
 - [ ] Generated and delivered comprehensive reports on firewall activities, including attack statistics, malware interceptions, and system health. Successfully eliminated the need for third-party vendors, reducing departmental costs by 50% annually.
 
+  
   
 • Hard Skills: Network Engineering, Network Security, Cisco Firepower, Palo Alto Panorama, Elasticsearch, IPSec, VLAN, BGP, OSPF, Bash, Threat Hunting, Defensive AI Security. 
  
