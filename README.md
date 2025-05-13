@@ -14,7 +14,7 @@ I am a dedicated learner of all things networking and cyber security.
 
 - [ ] Developed and implemented security policies using Palo Alto’s Panorama, Cisco’s FTD and ASA to regulate traffic between security zones.
 
-- [ ]Partnered with network engineers to implement routes, enabling customers to securely access data within ISD data centers. Improved customer connectivity by 20% for accessing programs and applications hosted in AWS, Azure, and OCI. 
+- [ ] Partnered with network engineers to implement routes, enabling customers to securely access data within ISD data centers. Improved customer connectivity by 20% for accessing programs and applications hosted in AWS, Azure, and OCI. 
  
 - [ ] Deployed and managed IPS technologies using Cisco’s Talos Threat Source and IPS sensors to detect and prevent network intrusions under the mandate of the Department Information Security Officer. 
 
