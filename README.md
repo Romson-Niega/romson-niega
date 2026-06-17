@@ -26,11 +26,10 @@ I am a dedicated learner of all things networking and cyber security.
 
 - Generated and delivered comprehensive reports on firewall activities, including attack statistics, malware interceptions, and system health. Successfully eliminated the need for third-party vendors, reducing departmental costs by 50% annually.
 
-  
-  
-• Hard Skills: Network Engineering, Network Security, Cisco Firepower, Palo Alto Panorama, Elasticsearch, IPSec, VLAN, BGP, OSPF, Bash, Threat Hunting, Defensive AI Security. 
- 
-• Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics.
+
+- **Hard Skills:** Network Engineering, Network Security, Cisco Firepower, Palo Alto Panorama, Elasticsearch, IPSec, VLAN, BGP, OSPF, Bash, Threat Hunting, Defensive AI Security.
+
+- **Soft Skills:** Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics.
 
 
 ![Contribution Snake](https://raw.githubusercontent.com/Romson-Niega/snk/output/github-contribution-grid-snake.svg)
