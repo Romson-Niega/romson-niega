@@ -1,36 +1,60 @@
-### I'm Romson, and welcome to my GitHub!
+### Building secure, resilient network infrastructure
 
-I am a dedicated learner of all things networking and cyber security. 
+I’m Romson, a network security professional focused on firewall engineering, operations, and threat detection. I help secure enterprise environments, improve connectivity, and support reliable infrastructure across internal and cloud-connected networks.
 
-- I’m currently working with Secure Infrastructure Section on firewall engineering and operations.
-- I'm currently employed at Internal Services Department - County of Los Angeles, https://isd.lacounty.gov
-- How to reach me: https://www.linkedin.com/in/romson-niega/
+<div align="center">
+	<strong>Firewall engineering • Perimeter security • Threat detection</strong>
+</div>
 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romson--Niega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romson-niega/)
+- [![LA County ISD](https://img.shields.io/badge/LA%20County-ISD-1F5AA6?style=for-the-badge)](https://isd.lacounty.gov)
 
+### Core Stack
 
-- [ ] Led Level 1 and 2 firewall troubleshooting efforts, conducting trace-route and packet capture analysis to diagnose vendor network issues. 
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Panorama%20%7C%20Strata-ED1C24?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-FTD%20%7C%20ASA%20%7C%20Firepower-1BA0D7?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/AWS%20%7C%20Azure%20%7C%20OCI-232F3E?style=for-the-badge)
+![Data](https://img.shields.io/badge/Elasticsearch%20%7C%20PRTG%20%7C%20Bash-005571?style=for-the-badge)
 
-- [ ] Managed and secured LA County’s perimeter firewalls, safeguarding sensitive data across DMZ and internal networks. Configured firewall rules, routes, and S2S VPN connections, maintaining optimal network security and performance. 
+### Quick Snapshot
 
-- [ ] Proactively conducted threat hunting within a SOC Team by analyzing WAF logs, effectively mitigating potential risks to LA County web servers.
+| Area | Details |
+| --- | --- |
+| Current role | Secure Infrastructure Section, firewall engineering and operations |
+| Employer | Internal Services Department, County of Los Angeles |
+| Focus | Perimeter security, firewall policy management, VPNs, routing, SOC analysis |
+| Connect | LinkedIn and LA County ISD links above |
 
-- [ ] Developed and implemented security policies using Palo Alto’s Panorama, Cisco’s FTD and ASA to regulate traffic between security zones.
+### Selected Impact
 
-- [ ] Partnered with network engineers to implement routes, enabling customers to securely access data within ISD data centers. Improved customer connectivity by 20% for accessing programs and applications hosted in AWS, Azure, and OCI. 
- 
-- [ ] Deployed and managed IPS technologies using Cisco’s Talos Threat Source and IPS sensors to detect and prevent network intrusions under the mandate of the Department Information Security Officer. 
+- Improved customer connectivity by 20% for access to applications hosted in AWS, Azure, and OCI.
+- Reduced departmental costs by 50% annually by eliminating third-party vendor dependency.
+- Strengthened firewall readiness with disaster-specific security policies and firewall SOPs.
 
-- [ ] Enhanced business continuity plans by developing and refining standard operating procedures for firewalls, including the creation of disaster-specific security policies with pre-approved critical ports. Trained new hires on the firewall (SOP). 
+### Working Style
 
-- [ ] Monitored firewall performance, traffic volume, and alerts using Elasticsearch, PRTG, and Palo Alto’s Strata, proactively mitigating potential security threats. 
+- Practical, risk-aware, and focused on reliable operations.
+- Comfortable bridging security, infrastructure, and troubleshooting teams.
+- Interested in work that improves resilience, visibility, and access across enterprise networks.
 
-- [ ] Generated and delivered comprehensive reports on firewall activities, including attack statistics, malware interceptions, and system health. Successfully eliminated the need for third-party vendors, reducing departmental costs by 50% annually.
+### Experience Highlights
 
-  
-  
-• Hard Skills: Network Engineering, Network Security, Cisco Firepower, Palo Alto Panorama, Elasticsearch, IPSec, VLAN, BGP, OSPF, Bash, Threat Hunting, Defensive AI Security. 
- 
-• Soft Skills: Communication, Analytical Skills, Problem Solving, Critical Thinking, Multi-tasking, Ethics.
+- Troubleshoot firewall issues with trace routes, packet captures, and vendor analysis.
+- Manage perimeter firewalls, VPNs, routes, and firewall rules for secure connectivity.
+- Analyze WAF logs and support threat hunting to reduce risk to public-facing systems.
+- Build and maintain security policies across Palo Alto Panorama, Cisco FTD, and ASA.
+- Improve routing and application access across AWS, Azure, and OCI environments.
+- Support IPS monitoring, SOP development, and operational reporting.
+
+### Skills
+
+**Technical:** Network Engineering, Network Security, Cisco Firepower, Palo Alto Panorama, Elasticsearch, IPSec, VLAN, BGP, OSPF, Bash, Threat Hunting, Defensive AI Security
+
+**Professional:** Communication, Analytical Thinking, Problem Solving, Critical Thinking, Multitasking, Ethics
+
+### GitHub Activity
+
+I’m open to connecting with teams working on network security, firewall operations, and resilient infrastructure.
 
 <!--
 **Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
