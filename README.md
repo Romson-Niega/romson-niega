@@ -1,75 +1,81 @@
-### Building secure, resilient network infrastructure
-
-I’m Romson, a network security professional focused on firewall engineering, operations, and threat detection. I help secure enterprise environments, improve connectivity, and support reliable infrastructure across internal and cloud-connected networks.
-
 <div align="center">
-	<strong>Firewall engineering • Perimeter security • Threat detection</strong>
+
+# ROMSON NIEGA
+
+**firewall engineering // perimeter defense // threat hunting**
+
+*Default deny. Explicit allow. No exceptions.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romson--Niega-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romson-niega/)
+[![LA County ISD](https://img.shields.io/badge/LA_County-ISD-1F5AA6?style=flat-square)](https://isd.lacounty.gov)
+
 </div>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romson--Niega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romson-niega/)
-- [![LA County ISD](https://img.shields.io/badge/LA%20County-ISD-1F5AA6?style=for-the-badge)](https://isd.lacounty.gov)
+```console
+┌──(romson㉿perimeter)-[~]
+└─$ cat profile.yml
+```
 
-### Core Stack
+```yaml
+name:     Romson Niega
+role:     Network Security Engineer — Secure Infrastructure
+org:      Internal Services Department, County of Los Angeles
+mission:  harden the edge, hunt the threat, automate the response
 
-![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Panorama%20%7C%20Strata-ED1C24?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-FTD%20%7C%20ASA%20%7C%20Firepower-1BA0D7?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/AWS%20%7C%20Azure%20%7C%20OCI-232F3E?style=for-the-badge)
-![Data](https://img.shields.io/badge/Elasticsearch%20%7C%20PRTG%20%7C%20Bash-005571?style=for-the-badge)
+stack:
+  edge:        [Palo Alto Panorama, Cisco FTD, ASA, Firepower]
+  cloud:       [AWS, Azure, OCI]
+  visibility:  [Elasticsearch, PRTG, WAF analytics, IPS]
+  transport:   [IPSec VPN, BGP, OSPF, VLAN]
+  automation:  [Bash, AI-driven security workflows]
 
-### Quick Snapshot
+lab:      Kali on Raspberry Pi — Metasploit, Recon-ng, OSINT tooling
+now:      [CCNA, defensive AI security]
+```
 
-| Area | Details |
-| --- | --- |
-| Current role | Secure Infrastructure Section, firewall engineering and operations |
-| Employer | Internal Services Department, County of Los Angeles |
-| Focus | Perimeter security, firewall policy management, VPNs, routing, SOC analysis |
-| Connect | LinkedIn and LA County ISD links above |
+## // what I do
 
-### Selected Impact
+I run perimeter security for enterprise county infrastructure — firewall policy at scale, VPN architecture, and routing across on-prem and AWS / Azure / OCI. When something breaks or something's hunting, I'm in the packet captures.
 
-- Improved customer connectivity by 20% for access to applications hosted in AWS, Azure, and OCI.
-- Reduced departmental costs by 50% annually by eliminating third-party vendor dependency.
-- Strengthened firewall readiness with disaster-specific security policies and firewall SOPs.
+- Build and maintain security policy across **Palo Alto Panorama**, **Cisco FTD**, and **ASA**
+- Manage perimeter firewalls, VPN tunnels, routes, and rulebases for secure connectivity
+- Analyze WAF logs and drive threat hunting against public-facing systems
+- Troubleshoot at the wire — trace routes, packet captures, vendor escalation
+- IPS monitoring, disaster-specific security policy, and firewall SOPs
 
-### Working Style
+## // receipts
 
-- Practical, risk-aware, and focused on reliable operations.
-- Comfortable bridging security, infrastructure, and troubleshooting teams.
-- Interested in work that improves resilience, visibility, and access across enterprise networks.
+| | |
+|---|---|
+| **+20%** | customer connectivity to apps hosted in AWS, Azure, and OCI |
+| **−50%** | annual departmental cost by cutting third-party vendor dependency |
+| **hardened** | firewall readiness via disaster-specific policies and SOPs |
 
-### Experience Highlights
+## // stack
 
-- Troubleshoot firewall issues with trace routes, packet captures, and vendor analysis.
-- Manage perimeter firewalls, VPNs, routes, and firewall rules for secure connectivity.
-- Analyze WAF logs and support threat hunting to reduce risk to public-facing systems.
-- Build and maintain security policies across Palo Alto Panorama, Cisco FTD, and ASA.
-- Improve routing and application access across AWS, Azure, and OCI environments.
-- Support IPS monitoring, SOP development, and operational reporting.
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-Panorama_|_Strata-ED1C24?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-FTD_|_ASA_|_Firepower-1BA0D7?style=flat-square)
+![Cloud](https://img.shields.io/badge/AWS_|_Azure_|_OCI-232F3E?style=flat-square)
+![Data](https://img.shields.io/badge/Elasticsearch_|_PRTG-005571?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-### Skills
+## // stats
 
-**Technical:** Network Engineering, Network Security, Cisco Firepower, Palo Alto Panorama, Elasticsearch, IPSec, VLAN, BGP, OSPF, Bash, Threat Hunting, Defensive AI Security
+<div align="center">
 
-**Professional:** Communication, Analytical Thinking, Problem Solving, Critical Thinking, Multitasking, Ethics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romson-Niega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Streak](https://streak-stats.demolab.com?user=Romson-Niega&theme=tokyonight&hide_border=true&background=00000000)
 
-### GitHub Activity
+</div>
 
-I’m open to connecting with teams working on network security, firewall operations, and resilient infrastructure.
+## // contact
 
-<!--
-**Romson-Niega/romson-niega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open to teams working on network security, firewall operations, and resilient infrastructure.
+**LinkedIn is the fastest route in** — link's at the top. Everything else hits the deny rule.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<br>
 
 ![Contribution Snake](https://raw.githubusercontent.com/Romson-Niega/snk/output/github-contribution-grid-snake.svg)
