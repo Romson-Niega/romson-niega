@@ -78,4 +78,8 @@ Open to teams working on network security, firewall operations, and resilient in
 
 <br>
 
-![Contribution Snake](https://raw.githubusercontent.com/Romson-Niega/snk/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romson-Niega/Romson-Niega/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romson-Niega/Romson-Niega/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Romson-Niega/Romson-Niega/output/github-contribution-grid-snake.svg" />
+</picture>
