@@ -2,14 +2,14 @@
 
 # ROMSON NIEGA
 
-**firewall engineering // perimeter defense // threat hunting**
+**firewall engineering // perimeter defense // AI automation**
 
 *Default deny. Explicit allow. No exceptions.*
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romson--Niega-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romson-niega/)
-[![LA County ISD](https://img.shields.io/badge/LA_County-ISD-1F5AA6?style=flat-square)](https://isd.lacounty.gov)
+[![Formerly LA County ISD](https://img.shields.io/badge/Formerly-LA_County_ISD-1F5AA6?style=flat-square)](https://isd.lacounty.gov)
 
 </div>
 
@@ -20,8 +20,8 @@
 
 ```yaml
 name:     Romson Niega
-role:     Network Security Engineer — Secure Infrastructure
-org:      Internal Services Department, County of Los Angeles
+role:     Network Security Engineer → independent AI automation + security consulting
+history:  Secure Infrastructure — Internal Services Department, County of Los Angeles
 mission:  harden the edge, hunt the threat, automate the response
 
 stack:
@@ -29,21 +29,25 @@ stack:
   cloud:       [AWS, Azure, OCI]
   visibility:  [Elasticsearch, PRTG, WAF analytics, IPS]
   transport:   [IPSec VPN, BGP, OSPF, VLAN]
-  automation:  [Bash, AI-driven security workflows]
+  automation:  [Bash, N8N, Claude Code, AI-driven security workflows]
 
 lab:      Kali on Raspberry Pi — Metasploit, Recon-ng, OSINT tooling
-now:      [CCNA, defensive AI security]
+now:      [CCNA, AI automation systems for SMBs, defensive AI security]
 ```
 
-## // what I do
+## // where I've been
 
-I run perimeter security for enterprise county infrastructure — firewall policy at scale, VPN architecture, and routing across on-prem and AWS / Azure / OCI. When something breaks or something's hunting, I'm in the packet captures.
+I ran perimeter security for enterprise county infrastructure at LA County ISD — firewall policy at scale, VPN architecture, and routing across on-prem and AWS / Azure / OCI. When something broke or something was hunting, I was in the packet captures.
 
-- Build and maintain security policy across **Palo Alto Panorama**, **Cisco FTD**, and **ASA**
-- Manage perimeter firewalls, VPN tunnels, routes, and rulebases for secure connectivity
-- Analyze WAF logs and drive threat hunting against public-facing systems
-- Troubleshoot at the wire — trace routes, packet captures, vendor escalation
+- Built and maintained security policy across **Palo Alto Panorama**, **Cisco FTD**, and **ASA**
+- Managed perimeter firewalls, VPN tunnels, routes, and rulebases for secure connectivity
+- Analyzed WAF logs and drove threat hunting against public-facing systems
+- Troubleshot at the wire — trace routes, packet captures, vendor escalation
 - IPS monitoring, disaster-specific security policy, and firewall SOPs
+
+## // what I'm building now
+
+AI automation systems for small businesses — lead gen, CRM workflows, email assistants — with the same verification discipline firewall work demands: discover before you modify, prove every change. Plus a Kali lab on a Raspberry Pi and the CCNA → CCNP Firewalls track to put certs behind the hands-on years.
 
 ## // receipts
 
@@ -73,7 +77,7 @@ I run perimeter security for enterprise county infrastructure — firewall polic
 
 ## // contact
 
-Open to teams working on network security, firewall operations, and resilient infrastructure.
+Open to teams working on network security, firewall operations, and resilient infrastructure — and to small businesses that want their operations automated.
 **LinkedIn is the fastest route in** — link's at the top. Everything else hits the deny rule.
 
 <br>
